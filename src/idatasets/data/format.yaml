@@ -1,0 +1,4 @@
+
+format:
+  video: ['.mp4', '.avi', '.mov', '.flv']
+  image: ['.jpg', '.jpeg', '.png', '.bmp', '.dib', '.jpe', '.pbm', '.pgm', '.ppm', '.sr', '.ras', '.tif', '.tiff', '.exr', '.jp2']
